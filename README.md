@@ -1,5 +1,5 @@
 # pymusic
-A simple music player written in python using ttkbootstrap
+A simple lightweight music player written in python using ttkbootstrap
 
 ![screenshot](https://i.ibb.co/ct45vZ9/pymusic.png))
 
